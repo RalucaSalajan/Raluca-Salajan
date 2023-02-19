@@ -1,6 +1,6 @@
 :cherry_blossom: Hello, I’m Raluca Salajan and this is my GitHub portfolio.
 
-:four_leaf_clover: I’m a newbie in Quality Assurance Software Testing.
+:four_leaf_clover: I’m interested in Quality Assurance Software Testing.
 
  :seedling: I’m looking to collaborate on Software Testing opportunities.
 
