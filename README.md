@@ -2,13 +2,14 @@
 
 :four_leaf_clover: I’m interested in Quality Assurance Software Testing.
 
- :seedling: I’m looking to collaborate on Software Testing opportunities.
+:seedling: I’m looking to collaborate on Software Testing opportunities.
 
 
-Currently, I'm taking this QA course: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/.
+Preparing using an online QA course, https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/,
+where I learned about agile, manual testing, API testing using Postman, writing bug reports & test cases
+and automation testing using CypressJS.
 
 I'm always willing to learn, searching for new things so that I can develop myself. 
 I consider myself optimistic, curious, and I have a strong desire to learn new things.
-I’m familiar with tools like Jira, TestLink, Postman, WebdriverIO, and Cypress. 
 
 My LinkedIn profile: https://www.linkedin.com/in/salajan-raluca-17a33074/
