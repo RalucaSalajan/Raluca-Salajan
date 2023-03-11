@@ -12,8 +12,4 @@ I consider myself optimistic, curious, and I have a strong desire to learn new t
 
 My LinkedIn profile: https://www.linkedin.com/in/salajan-raluca-17a33074/
 
-My Udemy courses:
-
-https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ 
-
-https://www.udemy.com/course/introducere-in-baze-de-date-mysql/
+My Udemy courses: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ and https://www.udemy.com/course/introducere-in-baze-de-date-mysql/
