@@ -10,6 +10,6 @@ Preparing using two online QA courses, where I learned about agile, manual testi
 I'm always willing to learn, searching for new things so that I can develop myself. 
 I consider myself optimistic, curious, and I have a strong desire to learn new things.
 
-My LinkedIn profile: https://www.linkedin.com/in/salajan-raluca-17a33074/
+My LinkedIn profile: https://www.linkedin.com/in/raluca-salajan-17a33074/
 
 My Udemy courses: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ and https://www.udemy.com/course/introducere-in-baze-de-date-mysql/
